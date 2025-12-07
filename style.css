@@ -1,0 +1,25 @@
+ .carousel-caption {
+      background: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      border-radius: 10px;
+      bottom: 20%;
+    }
+
+    .carousel-caption h3 {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .carousel-caption p {
+      font-size: 1.1rem;
+    }
+
+    .carousel-item {
+      height: 500px;
+    }
+
+    .carousel-item img {
+      height: 100%;
+      object-fit: cover;
+    }
